@@ -9,6 +9,7 @@
 1. [Reconocimiento facial y de objetos en la seguridad](#reconocimiento-facial-y-de-objetos-en-la-seguridad)
 2. [Asistentes virtuales y chatbots](#asistentes-virtuales-y-chatbots)
 3. [Diagnóstico médico asistido por IA](#diagnóstico-médico-asistido-por-ia)
+4. [Infografía](#infografía)
 
 ---
 
@@ -45,3 +46,21 @@ En el campo de la medicina, la inteligencia artificial se utiliza para ayudar en
 Imagina un sistema de IA que se utiliza en un hospital para ayudar a los médicos a diagnosticar enfermedades del corazón. Este sistema utiliza un algoritmo de aprendizaje automático que ha sido entrenado con miles de registros médicos de pacientes anteriores. Cada registro contiene información sobre los síntomas del paciente, los resultados de las pruebas médicas y el diagnóstico final del médico. Cuando un nuevo paciente llega al hospital con síntomas de una enfermedad del corazón, el médico puede introducir los síntomas y los resultados de las pruebas del paciente en el sistema de IA. El sistema analiza esta información y, basándose en lo que ha aprendido de los registros médicos anteriores, proporciona un diagnóstico preliminar. Este diagnóstico preliminar puede ayudar al médico a tomar una decisión más informada sobre el tratamiento del paciente. Sin embargo, el médico siempre tiene la última palabra sobre el diagnóstico y el tratamiento, ya que el sistema de IA está diseñado para asistir, no para reemplazar, el juicio humano.
 
 En términos de principios éticos, este sistema de IA debe ser transparente en cómo hace sus diagnósticos, debe proteger la privacidad de los datos del paciente y debe ser justo y no discriminatorio en sus diagnósticos. Además, los desarrolladores del sistema de IA deben ser responsables de garantizar que el sistema funcione correctamente y de corregir cualquier error o problema que pueda surgir.
+
+
+## Infografía
+
+- [Canalinnova](https://canalinnova.com)
+- [AWS - Amazon Web Services](https://aws.amazon.com)
+- [Real Instituto Elcano](https://media.realinstitutoelcano.org)
+- [Fp.uoc.fje.edu](https://fp.uoc.fje.edu)
+- [Ventasdeseguridad.com](https://ventasdeseguridad.com)
+- [Administracionelectronica.gob.es](https://administracionelectronica.gob.es)
+- [Redalyc.org](https://redalyc.org)
+- [Beedigital.es](https://beedigital.es)
+- [Okdiario.com](https://okdiario.com)
+- [Elsevier.es](https://elsevier.es)
+- [Saluddigital.com](https://saluddigital.com)
+- [Salud.nih.gov](https://salud.nih.gov)
+- [Acelerapyme.gob.es](https://acelerapyme.gob.es)
+- [Survey.stackoverflow.co](https://survey.stackoverflow.co)
