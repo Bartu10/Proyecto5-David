@@ -50,8 +50,8 @@ En términos de principios éticos, este sistema de IA debe ser transparente en 
 
 ## Infografía
 
-- [Canalinnova](https://canalinnova.com)
-- [AWS - Amazon Web Services](https://aws.amazon.com)
+- [Canalinnova]([https://canalinnova.com](https://canalinnova.com/inteligencia-artificial-en-la-seguridad-proteccion-vigilancia-y-prevencion/))
+- [AWS - Amazon Web Services]([https://aws.amazon.com](https://aws.amazon.com/es/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence/))
 - [Real Instituto Elcano](https://media.realinstitutoelcano.org)
 - [Fp.uoc.fje.edu](https://fp.uoc.fje.edu)
 - [Ventasdeseguridad.com](https://ventasdeseguridad.com)
